@@ -1,6 +1,6 @@
 ---
 title: "AMS 578"
-author: ""
+author: "David Mei"
 date: "`r Sys.Date()`"
 output: html_document
 ---
